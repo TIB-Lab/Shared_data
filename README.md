@@ -12,4 +12,4 @@ ii) ibotenic acid to induce microglia reactivity, proliferation and neuronal dea
 iii) LPS animals pre-treated with PLX5622 to deplete microglia and isolate astrocyte. 
 Then, the rats underwent an MRI protocol comprising a stimulated echo diffusion weighted MRI sequence (b=0, 2000 and 4000 s/mm2, diffusion times 15-60 ms).
 
->> Find the data ![HERE](https://digital.csic.es/handle/10261/368220)
+>> _Find the data here:https://digital.csic.es/handle/10261/368220_
