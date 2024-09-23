@@ -3,8 +3,9 @@
 
 TIB-Lab is a dual laboratory specialized in both 1) image acquisition by Magnetic Resonance Imaging and 2) in data processing. We created this repository to share our acquired data, for computational laboratories to test their models in the different biological conditions we already acquired 
 
+# Data Repositories
 
-## dw-MRI data of inflammatory challenges in rats 
+## 1. dw-MRI data of inflammatory challenges in rats 
 
 Our framework is based on stereotaxic injections of neurotoxins (saline contralaterally) in the rat hippocampus, followed by MRI acquisition, perfusion and histology. Specifically, we injected: 
 i) lipopolysaccharide (LPS) to induce microglia and astrocyte reactivity, 
